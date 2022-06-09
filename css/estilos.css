@@ -3,7 +3,7 @@ body{
     max-width:100%;
     text-align:center;
     margin:auto;
-    background-image: url('/img/ParabensFundo.jpg');
+    background-image: url('../img/ParabensFundo.jpg');
     background-image:center;
 }
 h1{
