@@ -1,0 +1,28 @@
+body{
+    width:500px;
+    max-width:100%;
+    text-align:center;
+    margin:auto;
+    background-image: url(/img/ParabensFundo.jpg);
+    background-image:center;
+}
+h1{
+    color:#fff;
+}
+table{
+    width:100%;
+    background-color: #ffa500;
+}
+th{
+    background-color:#dd571c;
+    color:#fff;
+}
+td{
+    color:#893101;
+    font-weight: bold;
+    font-size: 20px;
+}
+img{
+    width: 100%;
+
+}
